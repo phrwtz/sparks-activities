@@ -1,7 +1,7 @@
 {
   "_id": "circuit-creator",
   "_rev": "2-98a65aed7736c449a5509c9b3e0cc7d8",
-  "title": "RLC Circuit with draggable components",
+  "title": "Blank breadboard with component drawer",
   "show_multimeter": "true",
   "show_oscilloscope": "true",
   "showComponentDrawer": "true",
@@ -20,11 +20,7 @@
   ],
   "pages": [
     {
-      "questions": [
-        {
-          "prompt": "This is a sample RLC circuit with draggable components."
+      "note": "Create your own circuit! Click on the component drawer."
         }
       ]
     }
-  ]
-}
